@@ -7,6 +7,8 @@ export default function Header() {
         muted
         loop
         playsInline
+        preload="auto"
+        poster="/studio-1.png"
         className="absolute inset-0 w-full h-full object-cover"
       >
         <source src="/videos/hero-bg.mp4" type="video/mp4" />

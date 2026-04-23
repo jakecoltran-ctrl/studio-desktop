@@ -55,7 +55,7 @@ const equipmentCategories = [
 
 export default function EquipmentList() {
   return (
-    <section className="py-16 md:py-24 px-6 bg-charcoal">
+    <section className="pt-8 md:pt-12 pb-16 md:pb-24 px-6 bg-charcoal">
       <div className="max-w-6xl mx-auto">
         <p className="text-accent text-sm font-medium tracking-wider uppercase text-center mb-3">
           Professional Setup

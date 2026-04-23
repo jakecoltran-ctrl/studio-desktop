@@ -7,7 +7,7 @@ const studioImages = [
 
 export default function StudioGallery() {
   return (
-    <section className="py-16 md:py-24 px-6 bg-charcoal">
+    <section className="pt-16 md:pt-24 pb-8 md:pb-12 px-6 bg-charcoal">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <p className="text-accent text-sm font-medium tracking-wider uppercase mb-3">Our Space</p>
